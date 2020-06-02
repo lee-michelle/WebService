@@ -1,6 +1,6 @@
-1.´´½¨WebServiceServerÏîÄ¿Íê³ÉÊ±ºòÔËĞĞServiceHello¡£java
-2.·ÃÎÊhttp://localhost:9001/Service/ServiceHello?wsdlµØÖ·£¬Ò³ÃæÕı³£ÏÔÊ¾xmlÎÄ¼ş¼´¿É
-3.´ò¿ªcmd,ÔËĞĞÃüÁîwsimport -s E:\\MyEclipseWorkspace\\WebServiceClient\\src -p com.hyan.client -keep http://localhost:9001/Service/ServiceHello?wsdl
-4.ÓÒ¼üWebServiceClient-¡·Refresh,»áÉú³ÉÏàÓ¦µÄjavaÎÄ¼ş
-5.Ğ´Ò»¸öServiceTest²âÊÔÀàÔËĞĞ
-PS:clientºÍserver¶¼ÊÇWeb Service ProjectÏîÄ¿£¬ÔËĞĞÈí¼ş£ºmyEclipse
+1.åˆ›å»ºWebServiceServeré¡¹ç›®å®Œæˆæ—¶å€™è¿è¡ŒServiceHello.java
+2.è®¿é—®http://localhost:9001/Service/ServiceHello?wsdlåœ°å€ï¼Œé¡µé¢æ­£å¸¸æ˜¾ç¤ºxmlæ–‡ä»¶å³å¯
+3.æ‰“å¼€cmd,è¿è¡Œå‘½ä»¤wsimport -s E:\\MyEclipseWorkspace\\WebServiceClient\\src -p com.hyan.client -keep http://localhost:9001/Service/ServiceHello?wsdl
+4.å³é”®WebServiceClient-ã€‹Refresh,ä¼šç”Ÿæˆç›¸åº”çš„javaæ–‡ä»¶
+5.å†™ä¸€ä¸ªServiceTestæµ‹è¯•ç±»è¿è¡Œ
+PS:clientå’Œserveréƒ½æ˜¯Web Service Projecté¡¹ç›®ï¼Œè¿è¡Œè½¯ä»¶ï¼šmyEclipse
